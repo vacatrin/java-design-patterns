@@ -1,2 +1,2 @@
-# vava-design-patterns
+# java-design-patterns
 Learning about Java Design Patterns
